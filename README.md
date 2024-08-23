@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ana Luiza.
+## Olá! Eu sou a Ana Luiza, uma entusiasta de desenvolvimento web com foco em Node.js e React. Atualmente, estou explorando novas tecnologias.
 
 - 🌱 Estudando Node.Js e React.
 - 😄 Pronouns: ela/dela
